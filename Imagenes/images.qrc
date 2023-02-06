@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>appicon.ico</file>
+  </qresource>
+  <qresource prefix="Menu">
+    <file>CerrarSesion.png</file>
+    <file>CerrarSesion2.png</file>
+    <file>infoUser (1).png</file>
+    <file>infoUser (2).png</file>
+    <file>Posiciones (1).png</file>
+    <file>Posiciones (2).png</file>
+    <file>desafio.png</file>
+    <file>desafio2.png</file>
+    <file>training2.png</file>
+    <file>training.png</file>
+  </qresource>
+  <qresource prefix="user">
+    <file>usericon.png</file>
+  </qresource>
+  <qresource prefix="iconos">
+    <file>home.png</file>
+    <file>home2.png</file>
+    <file>menuicon.png</file>
+    <file>menuicon2.png</file>
+    <file>user.png</file>
+    <file>reward.png</file>
+    <file>ejercitandose.png</file>
+    <file>hacer-subir.png</file>
+    <file>yoga.png</file>
+    <file>incorporarse.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>GUI_APP-removebg-preview.png</file>
+  </qresource>
+</RCC>
